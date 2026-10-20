@@ -15,12 +15,17 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I'm currently working on **web apps and automation tooling**
-- 🌱 I'm currently learning **Rust** and **Kotlin**
+- 🔭 I'm currently working on ** AI agent **
+- 🌱 I'm currently learning in **South East University**
 - 💬 Ask me about **TypeScript, Python and Shell scripting**
-- ⚡ Fun fact: this profile is **fully automated by GitHub Actions**
 
 <p align="right"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat typing" /></p>
+
+### 🛠️ Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,docker,git,bash&perline=5" alt="Tech Stack" />
+</div>
 
 ### 🐍 Contribution graph
 
@@ -30,11 +35,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dopetaiga/Dopetaiga/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### 🛠️ Tech stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,docker,git,bash&perline=5" alt="Tech Stack" />
-</div>
 
 <!--
   想放自己的图片：上传到 assets/ 文件夹后，在下面加一行
