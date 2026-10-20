@@ -36,25 +36,10 @@
   <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,docker,git,bash&perline=5" alt="Tech Stack" />
 </div>
 
-### 🖼️ Gallery
-
 <!--
-  📤 想放自己的图片？两步搞定：
-  1. 把图片上传到本仓库的 assets/ 文件夹（GitHub 网页：进入 assets → Add file → Upload files）
-  2. 把下面这行模板复制到 <div> 里，改成你的文件名：
-     <img src="assets/你的图片.png" width="49%" alt="描述" />
+  想放自己的图片：上传到 assets/ 文件夹后，在下面加一行
+  <img src="assets/你的图片.png" width="49%" alt="描述" />
 -->
-<div align="center">
-  <img src="assets/code-window.svg" width="49%" alt="code window" />
-  <img src="assets/pixel-snake.svg" width="49%" alt="pixel snake" />
-</div>
-
-### 📊 GitHub metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dopetaiga/Dopetaiga/main/metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
-
 <picture>
   <img src="assets/divider.svg" width="100%" alt="wave divider" />
 </picture>
