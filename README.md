@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://github.com/Dopetaiga?tab=followers"><img src="https://img.shields.io/github/followers/Dopetaiga?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="followers" /></a>
   <a href="https://github.com/Dopetaiga?tab=repositories"><img src="https://img.shields.io/github/stars/Dopetaiga?affiliations=OWNER&style=for-the-badge&color=a371f7&labelColor=0d1117&logo=github" alt="stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dopetaiga&color=58a6ff&style=for-the-badge" alt="profile views" />
 </div>
 
 <div align="center">
