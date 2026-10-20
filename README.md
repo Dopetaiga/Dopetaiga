@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I'm currently working on ** AI agent **
+- 🔭 I'm currently working on **AI agent**
 - 🌱 I'm currently learning in **South East University**
 - 💬 Ask me about **TypeScript, Python and Shell scripting**
 
