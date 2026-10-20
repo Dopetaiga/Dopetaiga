@@ -15,11 +15,11 @@
 
 ### 🧑‍💻 About me
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" alt="cat typing" />
+
 - 🔭 I'm currently working on **AI agent**
 - 🌱 I'm currently learning in **South East University**
 - 💬 Ask me about **TypeScript, Python and Shell scripting**
-
-<p align="right"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat typing" /></p>
 
 ### 🛠️ Tech stack
 
@@ -35,6 +35,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dopetaiga/Dopetaiga/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDopetaiga&query=%24.public_repos&label=repos&style=flat-square&color=3fb950&labelColor=0d1117&cacheSeconds=86400" alt="public repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ADopetaiga&query=%24.total_count&label=total%20commits&style=flat-square&color=f0883e&labelColor=0d1117&cacheSeconds=86400" alt="total commits" />
+  <img src="https://img.shields.io/badge/since-2022-8b949e?style=flat-square&labelColor=0d1117" alt="since 2022" />
+</div>
 
 <!--
   想放自己的图片：上传到 assets/ 文件夹后，在下面加一行
