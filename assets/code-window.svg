@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" font-family="JetBrains Mono,Consolas,Courier New,monospace" role="img" aria-label="code window illustration">
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes blink { 0%,92%,100% { opacity: 1; } 96% { opacity: 0; } }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+  </style>
+
+  <rect x="1" y="1" width="598" height="378" rx="16" fill="url(#shine)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="598" height="44" rx="16" fill="#161b22"/>
+  <rect x="1" y="36" width="598" height="2" fill="#30363d"/>
+
+  <circle cx="30" cy="22" r="7" fill="#ff5f56"/>
+  <circle cx="56" cy="22" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="22" r="7" fill="#27c93f"/>
+  <text x="110" y="27" font-size="15" fill="#8b949e">hello.ts</text>
+
+  <text x="32" y="84"  font-size="19" fill="#8b949e">// profile.ts</text>
+  <text x="32" y="122" font-size="19"><tspan fill="#ff7b72">const</tspan><tspan fill="#79c0ff"> dev </tspan><tspan fill="#c9d1d9">= {</tspan></text>
+  <text x="56" y="160" font-size="19"><tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Dopetaiga"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <text x="56" y="198" font-size="19"><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"ts"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"py"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"web"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+  <text x="56" y="236" font-size="19"><tspan fill="#79c0ff">coffee</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#d2a8ff">Infinity</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <text x="32" y="274" font-size="19" fill="#c9d1d9">};</text>
+  <text x="32" y="312" font-size="19"><tspan fill="#ff7b72">while</tspan><tspan fill="#c9d1d9"> (alive) </tspan><tspan fill="#79c0ff">dev</tspan><tspan fill="#c9d1d9">.</tspan><tspan fill="#d2a8ff">learn</tspan><tspan fill="#c9d1d9">();</tspan></text>
+  <rect x="32" y="334" width="11" height="24" fill="#58a6ff" class="cursor"/>
+</svg>
