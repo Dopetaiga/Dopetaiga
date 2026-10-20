@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="assets/banner.svg" width="640" alt="Dopetaiga banner" />
-</div>
+<picture>
+  <img src="assets/banner.svg" width="100%" alt="Dopetaiga banner" />
+</picture>
 
 <div align="center">
   <a href="https://github.com/Dopetaiga?tab=followers"><img src="https://img.shields.io/github/followers/Dopetaiga?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="followers" /></a>
