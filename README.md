@@ -5,11 +5,11 @@
 <div align="center">
   <a href="https://github.com/Dopetaiga?tab=followers"><img src="https://img.shields.io/github/followers/Dopetaiga?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="followers" /></a>
   <a href="https://github.com/Dopetaiga?tab=repositories"><img src="https://img.shields.io/github/stars/Dopetaiga?affiliations=OWNER&style=for-the-badge&color=a371f7&labelColor=0d1117&logo=github" alt="stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dopetaiga&color=58a6ff&style=for-the-badge&abbreviated=true" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dopetaiga&color=58a6ff&style=for-the-badge" alt="profile views" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Dopetaiga!;Welcome+to+my+GitHub+profile!;TypeScript+%7C+Python+%7C+Web+%7C+Automation;Keep+coding%2C+keep+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Hello%2C+I'm+Dopetaiga!;Welcome+to+my+GitHub+profile!;TypeScript+%7C+Python+%7C+Web+%7C+Automation;Keep+coding%2C+keep+learning" alt="Typing SVG" />
 </div>
 
 ---
