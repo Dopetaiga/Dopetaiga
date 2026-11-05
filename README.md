@@ -5,6 +5,7 @@
 <div align="center">
   <a href="https://github.com/Dopetaiga?tab=followers"><img src="https://img.shields.io/github/followers/Dopetaiga?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="followers" /></a>
   <a href="https://github.com/Dopetaiga?tab=repositories"><img src="https://img.shields.io/github/stars/Dopetaiga?affiliations=OWNER&style=for-the-badge&color=a371f7&labelColor=0d1117&logo=github" alt="stars" /></a>
+  <a href="https://github.com/jj-vcs"><img src="https://img.shields.io/badge/org-jj--vcs%20member-58a6ff?style=for-the-badge&color=a371f7&labelColor=0d1117&logo=github" alt="jj-vcs member" /></a>
 </div>
 
 <div align="center">
