@@ -19,13 +19,14 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" alt="cat typing" />
 
 - 🔭 I'm currently working on **AI agent**
-- 🌱 I'm currently learning in **South East University**
+- 🧩 Contributing to [jj-vcs/jj](https://github.com/jj-vcs/jj) — a Git-compatible VCS written in **Rust**
+- 🌱 I'm currently learning **Rust** · studying at **South East University**
 - 💬 Ask me about **TypeScript, Python and Shell scripting**
 
 ### 🛠️ Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,docker,git,bash&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,html,css,nodejs,docker,git,bash&perline=5" alt="Tech Stack" />
 </div>
 
 ### 🐍 Contribution graph
