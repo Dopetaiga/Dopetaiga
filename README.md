@@ -52,5 +52,5 @@
 </picture>
 
 <div align="center">
-  Made with ❤️ and GitHub Actions — last auto-update: <b>daily</b>
+  Made with ❤️ and GitHub Actions — auto-updates <b>daily</b>
 </div>
